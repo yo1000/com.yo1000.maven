@@ -2,12 +2,11 @@
 <metadata>
   <groupId>com.yo1000</groupId>
   <artifactId>dbspock</artifactId>
-  <version>0.1.0-RELEASE</version>
+  <version>0.1.1-RELEASE</version>
   <versioning>
     <versions>
-      <version>0.1.0-RELEASE</version>
       <version>0.1.1-RELEASE</version>
     </versions>
-    <lastUpdated>20150713174922</lastUpdated>
+    <lastUpdated>20150713175504</lastUpdated>
   </versioning>
 </metadata>
