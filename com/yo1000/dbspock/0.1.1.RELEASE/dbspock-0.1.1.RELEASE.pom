@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yo1000</groupId>
   <artifactId>dbspock</artifactId>
-  <version>0.1.1-RELEASE</version>
+  <version>0.1.1.RELEASE</version>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
