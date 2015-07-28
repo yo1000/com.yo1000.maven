@@ -3,7 +3,7 @@
   <groupId>com.yo1000</groupId>
   <artifactId>apidoc</artifactId>
   <versioning>
-    <release>0.4.0.BETA</release>
+    <release>0.4.1.BETA</release>
     <versions>
       <version>0.1.0-BETA</version>
       <version>0.1.0.BETA</version>
@@ -11,7 +11,8 @@
       <version>0.2.1.BETA</version>
       <version>0.3.0.BETA</version>
       <version>0.4.0.BETA</version>
+      <version>0.4.1.BETA</version>
     </versions>
-    <lastUpdated>20150727173214</lastUpdated>
+    <lastUpdated>20150728131947</lastUpdated>
   </versioning>
 </metadata>
