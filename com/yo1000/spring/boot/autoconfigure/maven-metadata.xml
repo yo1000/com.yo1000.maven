@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.yo1000.spring.boot</groupId>
+  <artifactId>autoconfigure</artifactId>
+  <versioning>
+    <release>1.0.0.20160829.051624-1</release>
+    <versions>
+      <version>1.0.0.20160829.051624-1</version>
+    </versions>
+    <lastUpdated>20160829051624</lastUpdated>
+  </versioning>
+</metadata>

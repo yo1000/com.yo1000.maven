@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.yo1000.spring.boot</groupId>
+  <artifactId>autoconfigure</artifactId>
+  <version>1.0.0.SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160829.051624</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160829051624</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.20160829.051624-1</value>
+        <updated>20160829051624</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
